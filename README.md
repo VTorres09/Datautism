@@ -1,6 +1,6 @@
 # Datautism
 
-Project based on the dataset for adult autism classification.
+An artificial inteligence approach to the autism spectrum quotient (AQ-10) test.
 
 The dataset can be found at: https://archive-beta.ics.uci.edu/dataset/426/autism+screening+adult
 
